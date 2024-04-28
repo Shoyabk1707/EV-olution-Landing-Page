@@ -1,0 +1,41 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 80px;
+    color: white;
+}
+
+.nav-logo{
+    font-family: Outfit;
+    font-size: 42px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    list-style: none;
+    /* cursor: pointer; */
+}
+
+li:hover{
+    color: orangered;
+    cursor: pointer;
+}
+
+li:last-child:hover{
+    color: white;
+    background-color: orangered;
+}
+
+.nav-contact{
+    border-radius: 50px;
+    padding: 8px 24px;
+    background-color: white;
+    color: #262626;
+    cursor: pointer;
+}
