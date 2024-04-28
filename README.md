@@ -19,7 +19,7 @@ To get started with the Ev-olution landing page, follow these steps:
 
 This will open the landing page in your default browser. You can make changes to the code and see the updates in real-time.
 
-Or you can visit on live link : (click here)[https://662df111d830017fb706e96d--steady-madeleine-ff4dfe.netlify.app/].
+Or you can visit on live link : [click here](https://662df111d830017fb706e96d--steady-madeleine-ff4dfe.netlify.app/).
 
 ### Contributing
 
